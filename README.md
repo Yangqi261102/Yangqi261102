@@ -1,16 +1,24 @@
-## Hi there 👋
+# 👋 你好！我是 Yangqi261102
 
-<!--
-**Yangqi261102/Yangqi261102** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+欢迎来到我的 GitHub 主页！
 
-Here are some ideas to get you started:
+## 🚀 我在搞什么
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 正在学习写代码
+- 🌱 喜欢探索新东西
+- 🎮 平时喜欢玩游戏、看动画
+
+## 💡 我喜欢
+
+- 🦖 恐龙
+- 🤖 机甲和机器人
+- ⭐ 超级英雄
+- 🎨 一切酷的东西
+
+## 📫 联系我
+
+- GitHub: [@Yangqi261102](https://github.com/Yangqi261102)
+
+---
+
+⭐ 这个仓库是我的个人主页，欢迎来逛逛！
